@@ -36,7 +36,7 @@
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
 - 😆 Fun fact: If I were a genius inventor, I would most like to invent Time Machine.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-Yellow?style=flat&logo=Gmail&logoColor=white)](kumod.aws@gmail.com)
+- 📫 How to reach me: kumod.aws@gmail.com
 - 🤝Connect with me for new ideas related to Machine Learning Projects, Expolatory Data Analysis, Data Profiling, Data Preprocessing and Python Problem Solving.
 
 ---
