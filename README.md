@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/kdsharma">
-    <img src="https://img.shields.io/badge/Kaggle-purple?style=for-the-badge&logo=kaggle&logoColor=white" alt="KagGle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/skills-verification">
-    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  <a href="https://www.hackerrank.com/Kumod_Sharma?hr_r=1">
+    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
 </div>
   
@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
   
-- 💡 I am an Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 💡 I am an Aspiring Data Scientist from India.
 - 🏫 I have completed my graduation in B.Sc (Mathematics).
 - 📖 Currently doing Post Graduation in Data Science.
 - 👷‍♀️ I’m working on multiple datasets on Kaggle to enhance my Data Science Skills.
