@@ -1,17 +1,16 @@
-
-</div>
-  <h1>
-  Hello Connections
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
-</div>
-
 <div align="center">
+<h1>
+  📊 Data Scientist | 🏆 Kaggle Expert
+</h1>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
+
+<div align="right">
   
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 </div>
-<div align="center">
+<div align="right">
 <div id="badges">
   <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,14 +20,8 @@
   </a>
   <a href="https://www.hackerrank.com/Kumod_Sharma?hr_r=1">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
-  </a>
-</div>
-  
-----
-<div align="left">
+  </a></div></div>
 
-### :man_technologist: About Me :
-  
 - 💡 I am an Aspiring Data Scientist from India.
 - 🏫 I have completed my graduation in B.Sc (Mathematics).
 - 📖 Currently doing Post Graduation in Data Science.
@@ -45,3 +38,6 @@
 ### :fire: My Stats ::
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumod007&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
