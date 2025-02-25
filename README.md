@@ -2,7 +2,7 @@
 <h1> 
   🔮 Data Scientist | 🏆 Kaggle Expert            
 </h1>
-</div>
+</div> 
 
 <img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
 
