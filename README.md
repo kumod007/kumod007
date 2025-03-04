@@ -1,4 +1,4 @@
-<div align="center">   
+<div align="center">    
 <h1> 
   🔮 Data Scientist | 🏆 Kaggle Expert                            
 </h1> 
