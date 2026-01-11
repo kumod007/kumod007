@@ -1,11 +1,13 @@
-<div style="display: flex; align-items: center; width: 100%;">
-  <div style="flex: 1; text-align: left;">
-    <strong>Hi, I’m Kumod 👋</strong>
-  </div>
-  <div style="flex: 2; text-align: center;">
-    <h1>Data Science Trainer | Applied Data Analytics</h1>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="30%">
+      <strong>Hi, I’m Kumod 👋</strong>
+    </td>
+    <td align="center" width="70%">
+      <h1>Data Science Trainer | Applied Data Analytics</h1>
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
