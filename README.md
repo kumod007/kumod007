@@ -1,3 +1,10 @@
+<h2 align="center">Hi, I’m Kumod 👋</h2>
+<p align="center">
+  Data Science Trainer | Applied Data Analytics
+</p>
+
+
+
 <div align="center">    
 <h1> 
   🔮 Data Scientist | 🏆 Kaggle Expert                            
