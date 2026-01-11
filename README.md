@@ -1,9 +1,12 @@
-<h2 align="center">Hi, I’m Kumod 👋</h2>
-<div align="center">    
-<h1> 
-  🔮 Data Science Trainer | 🏆 Applied Data Analytics                            
-</h1> 
-</div> 
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 1; text-align: left;">
+    <strong>Hi, I’m Kumod 👋</strong>
+  </div>
+  <div style="flex: 2; text-align: center;">
+    <h1>Data Science Trainer | Applied Data Analytics</h1>
+  </div>
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
 
