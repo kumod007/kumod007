@@ -1,4 +1,4 @@
-<table width="100%">
+
   <tr>
     <td align="left" width="30%">
       <strong>Hi, I’m Kumod 👋</strong>
